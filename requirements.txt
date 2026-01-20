@@ -2,3 +2,4 @@ folium==0.20.0
 geopandas==1.1.1
 streamlit==1.51.0
 streamlit_folium==0.25.3
+openpyxl
